@@ -1,0 +1,7 @@
+include testgrid/testgrid.min.js
+include testgrid/testgrid.min.js.map
+include testgrid/metadata.json
+include testgrid/package-info.json
+include README.md
+include LICENSE
+include package.json
